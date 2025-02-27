@@ -1,0 +1,38 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+:root {
+    --primary: #116156;
+    --secondary: #edaa05;
+    --base: #fff3e3;
+    --light: #e0e0e0;
+    --dark: #424242;
+    --body-text: "Hind Mardurai", "Arial", "Halvetica", sans-serif;
+    --display-text: "libre Baskerville", "times", "New Roman", serif;
+    --subheadinges: "lora", "Times New Roman", Serif;
+    /*normal*/
+    --fw-400: 400;
+    /*bold*/
+    --fw-700: 700;
+    /*kursiv*/
+    --fs-italic: italic;
+
+    /*padding*/
+    --p-1: 1rem;
+    --p-2: 2rem;
+
+    --p-3: 3.2rem;
+
+    --p-4: 4rem;
+
+
+
+
+
+
+
+}

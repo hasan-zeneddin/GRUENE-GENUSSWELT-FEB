@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "libre Baskerville";
+    src: url("../Fonts/fontie-package/Libre\ Baskerville.woff2"), url("../Fonts/fontie-package/Libre\ Baskerville.woff")format(woff);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "libre Baskerville";
+    src: url("../Fonts/fontie-package/Libre\ Baskerville\ Bold.woff2"), url("../Fonts/fontie-package/Libre\ Baskerville\ Bold.woff")format(woff);
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Lora";
+    src: url("../Fonts/fontie-package/Lora\ Italic.woff2"), url("../Fonts/fontie-package/Lora\ Italic.woff")format(woff);
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Hind Madurai";
+    src: url("../Fonts/fontie-package/Hind\ Madurai\ Regular.woff"), url("../Fonts/fontie-package/Hind\ Madurai\ Regular.woff2")format(woff);
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Hind Madurai";
+    src: url("../Fonts/fontie-package/Hind\ Madurai\ Italic.woff"), url("../Fonts/fontie-package/Hind\ Madurai\ Italic.woff2")format(woff);
+    font-weight: 400;
+    font-style: Italic;
+    font-display: swap;
+}
